@@ -1,7 +1,8 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🏷️ Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>O Jogo do Número Secreto é um projeto simples e divertido criado para praticar lógica de programação, estruturas condicionais e interação com o usuário.  
+O jogador tenta adivinhar qual número o sistema escolheu aleatoriamente, recebendo dicas se o número é maior ou menor até acertar.</p>
 
 ## 🚀 Tecnologias
 <div>
