@@ -1,6 +1,6 @@
 <h1>Jogo do número secreto</h1>
 
-<h2>🏷️ Sobre</h2>
+<h2>🧩 Sobre o projeto</h2>
 <p>O Jogo do Número Secreto é um projeto simples e divertido criado para praticar lógica de programação, estruturas condicionais e interação com o usuário.  
 O jogador tenta adivinhar qual número o sistema escolheu aleatoriamente, recebendo dicas se o número é maior ou menor até acertar.</p>
 
